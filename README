@@ -1,0 +1,4 @@
+Miscellaneous programs for working with the BlinkM programmable leds.
+
+blinkm_shell.py - A command line shell to be used with the BlinkMTester Arduino program.
+
